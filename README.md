@@ -18,9 +18,6 @@ You can find a copy of the terms and conditions of that license at
 [https://www.gnu.org/licenses/gpl-3.0.txt](https://www.gnu.org/licenses/gpl-3.0.txt). The license is also
 available in this source code from the COPYING file.
 
-## Downloads
-
-- **[Main builds of DS4Windows](https://github.com/UnknownBrScripts/DS4Windows/releases)**
 
 ## Requirements
 
