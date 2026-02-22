@@ -20,7 +20,7 @@ available in this source code from the COPYING file.
 
 ## Downloads
 
-- **[Main builds of DS4Windows](https://github.com/Ryochan7/DS4Windows/releases)**
+- **[Main builds of DS4Windows](https://github.com/UnknownBrScripts/DS4Windows/releases)**
 
 ## Requirements
 
